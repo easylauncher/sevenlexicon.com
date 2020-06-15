@@ -809,11 +809,40 @@ footer.entry-meta .meta-in {
 }
 
 .home #head {
-    /*padding: 90px 0;*/
-    min-height: 500px;
-    padding: 10px 19px;
+  /*padding: 90px 0;*/
+  min-height: 500px;
+  padding: 10px 19px;
 }
 
 span.title {
-    color: #404040;
+  color: #404040;
 }
+
+.home #head .tagline {
+  font-size: 2rem;
+ }
+
+#head .tagline {
+  color: #404040;
+}
+
+.service-titles {
+  font-size: 24px;
+}
+
+.service-link {
+  color: #666666;
+}
+
+a.service-link:hover {
+  color: #e93675;
+}
+
+.thumbnail .img {
+  height: 340px;
+}
+
+.thumbnail .cover {
+  height: 340px;
+}
+
