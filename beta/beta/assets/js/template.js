@@ -36,3 +36,15 @@ jQuery(document).ready(function($) {
 	});
 
 });
+
+
+/*********************************************************************
+                                Override
+**********************************************************************/
+
+
+// Disclaimer Load
+$(window).load(function(){        
+  $('#disclaimerModal').modal('show');
+}); 
+
