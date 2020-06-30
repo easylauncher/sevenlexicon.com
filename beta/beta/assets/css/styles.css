@@ -857,3 +857,8 @@ a.service-link:hover {
 .navbar {
   z-index: 999;
 }
+
+
+.follow-me-icons i {
+  float: none;
+}
